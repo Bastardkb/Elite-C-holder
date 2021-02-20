@@ -1,4 +1,6 @@
-Holder PCB for the Elite-C
+## Holder PCB for the Elite-C
+
+![holder](pics/1.jpg)
 
 ## V1.3
 
