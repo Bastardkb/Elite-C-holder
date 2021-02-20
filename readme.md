@@ -6,6 +6,7 @@ Holder PCB for the Elite-C
 - M4 screw holes
 - reset button
 - rgb holes
+- easy matrix pins access
 
 ## V1.4
 
