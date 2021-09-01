@@ -1,6 +1,3 @@
-# For PCBs designed using KiCad: http://www.kicad-pcb.org/
-# Format documentation: http://kicad-pcb.org/help/file-formats/
-
 # Temporary files
 *.000
 *.bak
@@ -10,11 +7,10 @@
 *.kicad_prl
 *.sch-bak
 *~
-_autosave-*
 *.tmp
 *-save.pro
 *-save.kicad_pcb
-fp-info-cache
+fp-info-cache 
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -27,7 +23,12 @@ fp-info-cache
 *.xml
 *.csv
 
-adapter/adapter-backups
-adapter/adapter-backups/*
+# Bastardkb files
+
+flex/gerber
 gerber
 gerber/*
+flex/flex-backups
+flex/flex-backups/*
+
+# Project specific files
