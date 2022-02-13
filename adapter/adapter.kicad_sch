@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Elite-C holder")
+    (date "2022-02-13")
+    (rev "2.0")
+    (company "BastardKB x KarlK90")
+    (comment 1 "Licensed under CERN-OHL-W v2")
+  )
+
   (lib_symbols
     (symbol "Connector:AudioJack4" (in_bom yes) (on_board yes)
       (property "Reference" "J" (id 0) (at 0 8.89 0)
