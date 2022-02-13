@@ -851,7 +851,6 @@
   )
 
 
-
   (no_connect (at 101.6 144.78) (uuid 0dcdf1b8-13c6-48b4-bd94-5d26038ff231))
   (no_connect (at 100.33 76.2) (uuid 120a7b0f-ddfd-4447-85c1-35665465acdb))
   (no_connect (at 101.6 142.24) (uuid d22e95aa-f3db-4fbc-a331-048a2523233e))
@@ -2286,6 +2285,24 @@
     (pin "2" (uuid 68848c97-1a9a-4482-badc-1c87973e5bba))
   )
 
+  (symbol (lib_id "power:+5V") (at 217.17 85.09 0) (unit 1)
+    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (uuid 411fe260-6962-4a42-bab6-fe9c8baa008e)
+    (property "Reference" "#PWR?" (id 0) (at 217.17 88.9 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+5V" (id 1) (at 218.567 84.299 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "" (id 2) (at 217.17 85.09 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 217.17 85.09 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 66e8f4d0-d812-409a-b8ba-dd622a329ea4))
+  )
+
   (symbol (lib_id "power:GND") (at 186.69 91.313 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 44d9c0e4-0be8-4468-818a-892b53492e5b)
@@ -3306,6 +3323,9 @@
     )
     (path "/85e5261e-9a83-47b0-b1ae-2bb35569d032"
       (reference "#PWR0134") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/411fe260-6962-4a42-bab6-fe9c8baa008e"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/5fd9df76-c43d-4796-94f7-754293d94a80"
       (reference "H1") (unit 1) (value "M4") (footprint "Library:MountingHole_4mm_Pad_thin")
