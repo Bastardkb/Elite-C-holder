@@ -2298,7 +2298,7 @@
     (property "Reference" "R2" (id 0) (at 215.9 63.373 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "5.1k" (id 1) (at 215.9 65.913 0)
+    (property "Value" "4.7k" (id 1) (at 215.9 65.913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Library:R_1206_handsolder" (id 2) (at 212.09 63.881 90)
@@ -2323,7 +2323,7 @@
     (property "Reference" "R4" (id 0) (at 226.06 63.373 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "5.1k" (id 1) (at 226.06 65.913 0)
+    (property "Value" "4.7k" (id 1) (at 226.06 65.913 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Library:R_1206_handsolder" (id 2) (at 222.25 63.881 90)
@@ -2797,13 +2797,13 @@
       (reference "R1") (unit 1) (value "5.1k") (footprint "Library:R_1206_handsolder")
     )
     (path "/b1d597d1-df35-4e34-ab81-0108b8a72345"
-      (reference "R2") (unit 1) (value "5.1k") (footprint "Library:R_1206_handsolder")
+      (reference "R2") (unit 1) (value "4.7k") (footprint "Library:R_1206_handsolder")
     )
     (path "/83cf8f47-b1e2-4d1b-a65a-27563938e818"
       (reference "R3") (unit 1) (value "5.1k") (footprint "Library:R_1206_handsolder")
     )
     (path "/b388c5d2-fc7d-4630-91eb-72d5c832f3e4"
-      (reference "R4") (unit 1) (value "5.1k") (footprint "Library:R_1206_handsolder")
+      (reference "R4") (unit 1) (value "4.7k") (footprint "Library:R_1206_handsolder")
     )
     (path "/0b28cd91-b5a2-4261-9655-460b63454a83"
       (reference "SW1") (unit 1) (value "SW_SPST") (footprint "Library:PushSwitch")
