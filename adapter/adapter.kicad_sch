@@ -2161,7 +2161,7 @@
     (property "Value" "serial" (id 1) (at 189.23 144.907 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 199.39 132.08 0)
+    (property "Footprint" "Library:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 199.39 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 199.39 132.08 0)
@@ -2564,7 +2564,7 @@
     (property "Value" "serial" (id 1) (at 191.77 80.645 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 201.93 67.31 0)
+    (property "Footprint" "Library:PinHeader_1x04_P2.54mm_Vertical" (id 2) (at 201.93 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 201.93 67.31 0)
@@ -3214,10 +3214,10 @@
       (reference "J12") (unit 1) (value "Ribbon") (footprint "Library:6_PinHeader")
     )
     (path "/49028e32-30bd-47eb-9e53-b83a0a7bf657"
-      (reference "J13") (unit 1) (value "serial") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J13") (unit 1) (value "serial") (footprint "Library:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/9cdc04e7-a7c1-410b-8dd7-1b5a287afb98"
-      (reference "J14") (unit 1) (value "serial") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
+      (reference "J14") (unit 1) (value "serial") (footprint "Library:PinHeader_1x04_P2.54mm_Vertical")
     )
     (path "/f76693f6-314b-40e8-874f-8a0105319bc0"
       (reference "JP1") (unit 1) (value "Jumper_2_Open") (footprint "Library:power_switch_jumper")
