@@ -1,0 +1,22 @@
+(footprint "power_switch_jumper" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 608DA444)
+  (attr smd)
+  (fp_text reference "JP1" (at 0 -1.524) (layer "F.SilkS") hide
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
+    (tstamp 41ab46ed-40f5-461d-81aa-1f02dc069a49)
+  )
+  (fp_text value "SolderJumper_2_Open" (at 0 -1.389) (layer "F.SilkS") hide
+    (effects (font (size 0.7 0.7) (thickness 0.1)))
+    (tstamp 105d44ff-63b9-4299-9078-473af583971a)
+  )
+  (pad "1" smd rect (at 0 0.3175 90) (size 0.4 0.6) (layers "F.Cu" "F.Paste" "F.Mask")
+    (clearance 0.1905) (tstamp 92574e8a-729f-48de-afcb-97b4f5e826f8))
+  (pad "2" smd rect (at 0 -0.3175 90) (size 0.4 0.6) (layers "F.Cu" "F.Paste" "F.Mask")
+    (clearance 0.1905) (tstamp 51f5536d-48d2-4807-be44-93f427952b0e))
+  (model "smd\\resistors\\R0603.wrl"
+    (offset (xyz 0 0 0.02539999962))
+    (scale (xyz 0.5 0.5 0.5))
+    (rotate (xyz 0 0 0))
+  )
+)
