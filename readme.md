@@ -2,7 +2,7 @@
 
 Universal holder PCB for all Bastard Keyboards
 
-![holder](pics/1.jpg)
+![holder](pics/2.png)
 
 ## V2
 
