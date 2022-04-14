@@ -1,5 +1,7 @@
 ## Holder PCB for the Elite-C
 
+Work in progress - universal one for all Bastard Keyboards
+
 ![holder](pics/1.jpg)
 
 ## V1.3

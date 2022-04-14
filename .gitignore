@@ -30,5 +30,7 @@ gerber
 gerber/*
 flex/flex-backups
 flex/flex-backups/*
+adapter/adapter-backups
+adapter/adapter-backups/*
 
 # Project specific files
