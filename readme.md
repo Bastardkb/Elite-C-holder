@@ -1,8 +1,21 @@
 ## Holder PCB for the Elite-C
 
-Work in progress - universal one for all Bastard Keyboards
+Universal holder PCB for all Bastard Keyboards
 
 ![holder](pics/1.jpg)
+
+## V2
+
+- more visible détrompeur like on the Blackpill shield ( on hidden side once installed/opposite of rst button)
+- fancy fonts 
+- new edge cuts for top screw, new fancy corners
+- matrix headers under elite c
+- make the wiring on both sides the same (previously, on charybdis shield is different)
+- move rst button
+- add pullups on serial for input devices on both sides
+- I2c connector
+- RAW connector for battery charge when using nice nanos
+- on/off switch for nice nanos
 
 ## V1.3
 
