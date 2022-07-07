@@ -11,6 +11,7 @@ Universal holder PCB for all Bastard Keyboards
 
 [Splinktegrated](https://github.com/Bastardkb/Splinktegrated/tree/features/holder2) - Integrated rp2040 and usb-c daughterboard (work in progress)
 
+[Blackpill holder](https://github.com/Bastardkb/adapter-blackpill/)
 
 ## V2
 
