@@ -4,6 +4,14 @@ Universal holder PCB for all Bastard Keyboards
 
 ![holder](pics/2.png)
 
+
+## Forks
+
+[https://github.com/vattern/holiot-carrier](Holiot carrier) for bluetooth
+
+[https://github.com/Bastardkb/Splinktegrated/tree/features/holder2](Splinktegrated) - Integrated rp2040 and usb-c daughterboard (work in progress)
+
+
 ## V2
 
 - more visible détrompeur like on the Blackpill shield ( on hidden side once installed/opposite of rst button)
