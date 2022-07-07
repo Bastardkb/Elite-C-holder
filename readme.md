@@ -7,9 +7,9 @@ Universal holder PCB for all Bastard Keyboards
 
 ## Forks
 
-[https://github.com/vattern/holiot-carrier](Holiot carrier) for bluetooth
+[Holiot carrier](https://github.com/vattern/holiot-carrier) for bluetooth
 
-[https://github.com/Bastardkb/Splinktegrated/tree/features/holder2](Splinktegrated) - Integrated rp2040 and usb-c daughterboard (work in progress)
+[Splinktegrated](https://github.com/Bastardkb/Splinktegrated/tree/features/holder2) - Integrated rp2040 and usb-c daughterboard (work in progress)
 
 
 ## V2
