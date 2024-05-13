@@ -20,6 +20,7 @@ Universal holder PCB for all Bastard Keyboards
 
 [Blackpill holder](https://github.com/Bastardkb/adapter-blackpill/)
 
+[Nice!nano holder](https://github.com/victorlucachi/Elite-C-holder)
 
 # License 
 
